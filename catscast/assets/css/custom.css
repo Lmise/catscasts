@@ -1,0 +1,10 @@
+.hero-section {
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/cat.jpg') 50% no-repeat;
+  background-size: cover;
+  height: 85vh;
+  text-align: center;
+}
+.hero-section .hero-section-text {
+  color: #fefefe;
+  text-shadow: 1px 1px 2px #0a0a0a;
+}
